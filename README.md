@@ -34,6 +34,10 @@ Key frontend work included:
 - Profile picture upload integrated with FileHandler.Api
 - Admin functionality for managing skills
 
+## Preview
+![Profile Page](./preview-form-and-admin-card.png)
+![Profile Page](./preview-profile-card.png)
+
 ## Tech Stack
 - **Backend:** ASP.NET Core Web API (Minimal API)
 - **Database:** Entity Framework Core + Azure SQL Server
