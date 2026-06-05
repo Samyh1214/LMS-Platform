@@ -18,10 +18,10 @@ The code represents my individual contributions to the project.
 ## Services
 | Service | Description |
 |---|---|
-| [Profile.Api](./Profile.Api) | User profile management |
-| [Skills.Api](./Skills.Api) | Skills and user-skill relationships |
-| [Achievements.Api](./Achievements.Api) | Achievement system |
-| [FileHandler.Api](./FileHandler.Api) | File uploads to Azure Blob Storage |
+| [Profile.Api](./profile-api-main) | User profile management |
+| [Skills.Api](./skills-api-main) | Skills and user-skill relationships |
+| [Achievements.Api](./achievements-api-main) | Achievement system |
+| [FileHandler.Api](./filehandler-api-main) | File uploads to Azure Blob Storage |
 
 ## Frontend
 I was also responsible for building the frontend components for my modules in Next.js 
@@ -55,7 +55,7 @@ Key frontend work included:
 - **Azure Blob Storage** for scalable file storage separate from relational data
 
 - ## Documentation
-Sequence diagrams for key flows are available in the [Profile.Api/docs](./Profile.Api/docs) folder, including:
+Sequence diagrams for key flows are available in the [Profile.Api/docs](./profile-api-main/Profile.Api/docs) folder, including:
 - Login and profile page load
 - Update profile
 - Upload profile picture
