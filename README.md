@@ -55,7 +55,7 @@ Key frontend work included:
 - **Azure Blob Storage** for scalable file storage separate from relational data
 
 - ## Documentation
-Sequence diagrams for key flows are available in the [Profile.Api/docs](./profile-api-main/Profile.Api/docs) folder, including:
+Sequence diagrams for key flows are available in the [Profile.Api/docs](./profile-api-main/docs) folder, including:
 - Login and profile page load
 - Update profile
 - Upload profile picture
