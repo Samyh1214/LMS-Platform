@@ -53,3 +53,11 @@ Key frontend work included:
 - **Frontend aggregation** over API Gateway for loose coupling and resilience
 - **Cookie-based JWT** for seamless authentication across services
 - **Azure Blob Storage** for scalable file storage separate from relational data
+
+- ## Documentation
+Sequence diagrams for key flows are available in the [Profile.Api/docs](./Profile.Api/docs) folder, including:
+- Login and profile page load
+- Update profile
+- Upload profile picture
+- Achievement triggered
+- Skills management
